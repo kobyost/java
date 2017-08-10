@@ -1,6 +1,6 @@
 # java
-Java project -3d maze game.
-This project was developed Koby Osterman and Raz Romano as part of our Algorithmic Object Oriented Programing Course.
+Java project -3d maze game.<br/>
+This project was developed by Koby Osterman and Raz Romano as part of our Algorithmic Object Oriented Programing Course.
 The game is based on various search algorithms (Astar, BFS).
 Developed as a full desktop application in accordance with the client’s server structure and based on MVC, MVP architecture, while using different design patterns and multithreading programing. 
 
